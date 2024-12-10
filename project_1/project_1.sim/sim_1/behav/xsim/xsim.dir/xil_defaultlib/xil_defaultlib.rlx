@@ -1,0 +1,10 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Desktop/cx-203-debugging-exam-main/4-bit-counter/counter_4bit.sv,1733817598,systemVerilog,,/home/it/Desktop/cx-203-debugging-exam-main/4-bit-counter/d_flipflop.sv,,counter_4bit,,,,,,,,
+/home/it/Desktop/cx-203-debugging-exam-main/4-bit-counter/d_flipflop.sv,1733816375,systemVerilog,,/home/it/Desktop/cx-203-debugging-exam-main/4-bit-counter/d_latch_asyn_rstn.sv,,d_flipflop,,,,,,,,
+/home/it/Desktop/cx-203-debugging-exam-main/4-bit-counter/d_latch_asyn_rstn.sv,1733817388,systemVerilog,,/home/it/Desktop/cx-203-debugging-exam-main/4-bit-counter/mux2x1.sv,,d_latch_asyn_rstn,,,,,,,,
+/home/it/Desktop/cx-203-debugging-exam-main/4-bit-counter/mux2x1.sv,1733805263,systemVerilog,,/home/it/Desktop/cx-203-debugging-exam-main/project_1/project_1.srcs/sim_1/new/tb.sv,,mux2x1,,,,,,,,
+/home/it/Desktop/cx-203-debugging-exam-main/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Desktop/cx-203-debugging-exam-main/project_1/project_1.srcs/sim_1/new/tb.sv,1733817267,systemVerilog,,,,tb,,,,,,,,
